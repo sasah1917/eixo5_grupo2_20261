@@ -8,14 +8,14 @@ Arquitetura de Dados em Nuvem
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
-* Ellen da Motta Maia
+* Paulo Henrique Hartelt Neves
+* Ellem da Motta Maia
 * Henrique Simões Peixoto
-* Jataiza de Arruda Barboza
-* Paulo Fernando Hartelt Neves
+* Jataiza de Arruda Barbosa
 * Sarah Vitoria Pini Guerrero
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva
 
 # Documentação
 
